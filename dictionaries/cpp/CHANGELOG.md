@@ -3,6 +3,45 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [7.0.0](https://github.com/holtskinner/cspell-dicts/compare/@cspell/dict-cpp-v6.0.1...@cspell/dict-cpp@7.0.0) (2024-11-05)
+
+
+### ⚠ BREAKING CHANGES
+
+* Add common compound words to cpp dict ([#3761](https://github.com/holtskinner/cspell-dicts/issues/3761))
+
+### Features
+
+* Add common compound words to cpp dict ([#3761](https://github.com/holtskinner/cspell-dicts/issues/3761)) ([dbfbcae](https://github.com/holtskinner/cspell-dicts/commit/dbfbcaef810f4607fb44bddf3f1733d5d1be99e4))
+
+
+### Updates and Bug Fixes
+
+* Add more compounds to CPP ([#3770](https://github.com/holtskinner/cspell-dicts/issues/3770)) ([671ccdc](https://github.com/holtskinner/cspell-dicts/commit/671ccdc0af91eaaf2f4a91249bcd24c08fcf2068))
+* Adjust CPP words ([#3736](https://github.com/holtskinner/cspell-dicts/issues/3736)) ([aef6353](https://github.com/holtskinner/cspell-dicts/commit/aef63535911d23657549884ff2c7c72cf50b2210))
+* fix some English spelling issues. ([#3296](https://github.com/holtskinner/cspell-dicts/issues/3296)) ([eabb25a](https://github.com/holtskinner/cspell-dicts/commit/eabb25a790c0d44b6c929cc6cc42f784c261fa11))
+* Fix the git repository URL ([#3665](https://github.com/holtskinner/cspell-dicts/issues/3665)) ([ac050b6](https://github.com/holtskinner/cspell-dicts/commit/ac050b697d57820109995e92fac5ccc32ced1723))
+* Sign all dictionaries ([#3661](https://github.com/holtskinner/cspell-dicts/issues/3661)) ([6b8d560](https://github.com/holtskinner/cspell-dicts/commit/6b8d560cf51a593458ce42bca415859f872cfc97))
+* Update package git url ([#3667](https://github.com/holtskinner/cspell-dicts/issues/3667)) ([629c7d0](https://github.com/holtskinner/cspell-dicts/commit/629c7d0a5e1bacad1d3874b1f8372edc3494ef97))
+* Workflow Bot -- Build Dictionaries ([#3167](https://github.com/holtskinner/cspell-dicts/issues/3167)) ([a94f73b](https://github.com/holtskinner/cspell-dicts/commit/a94f73b4ff267e143d97208cf1c93b2b772bea51))
+* Workflow Bot -- Build Dictionaries ([#3174](https://github.com/holtskinner/cspell-dicts/issues/3174)) ([0f13b2b](https://github.com/holtskinner/cspell-dicts/commit/0f13b2b983fc00f83789795a34f432b9d439152e))
+* Workflow Bot -- Build Dictionaries ([#3185](https://github.com/holtskinner/cspell-dicts/issues/3185)) ([4db7ac2](https://github.com/holtskinner/cspell-dicts/commit/4db7ac294d819233196226cf692e6438fc59462c))
+* Workflow Bot -- Build Dictionaries ([#3216](https://github.com/holtskinner/cspell-dicts/issues/3216)) ([1f48312](https://github.com/holtskinner/cspell-dicts/commit/1f483125280d927cfb94faca357f5b18baa5c29c))
+* Workflow Bot -- Build Dictionaries ([#3239](https://github.com/holtskinner/cspell-dicts/issues/3239)) ([2e775e9](https://github.com/holtskinner/cspell-dicts/commit/2e775e9bc5474bbf1b1b61fad140787a194c849c))
+* Workflow Bot -- Build Dictionaries ([#3275](https://github.com/holtskinner/cspell-dicts/issues/3275)) ([7569e95](https://github.com/holtskinner/cspell-dicts/commit/7569e956420a7aafa17467b65c0c8a3ab69751f7))
+* Workflow Bot -- Build Dictionaries ([#3396](https://github.com/holtskinner/cspell-dicts/issues/3396)) ([4702b0c](https://github.com/holtskinner/cspell-dicts/commit/4702b0cbe15a26f994232d8020f28dde2c707fd8))
+* Workflow Bot -- Build Dictionaries ([#3411](https://github.com/holtskinner/cspell-dicts/issues/3411)) ([a6adc8f](https://github.com/holtskinner/cspell-dicts/commit/a6adc8f8b867c86b315873b2dc80344d344ad8b5))
+* Workflow Bot -- Build Dictionaries ([#3482](https://github.com/holtskinner/cspell-dicts/issues/3482)) ([e83d0a8](https://github.com/holtskinner/cspell-dicts/commit/e83d0a895762a6a64ab46de83fd3441e0287c8a3))
+* Workflow Bot -- Build Dictionaries ([#3489](https://github.com/holtskinner/cspell-dicts/issues/3489)) ([8c400a5](https://github.com/holtskinner/cspell-dicts/commit/8c400a54ab8cca80636452b5c595cc3727ee0341))
+* Workflow Bot -- Build Dictionaries ([#3495](https://github.com/holtskinner/cspell-dicts/issues/3495)) ([187165e](https://github.com/holtskinner/cspell-dicts/commit/187165e0418f79cf6e6d4d6de36a8964d0549ae0))
+* Workflow Bot -- Build Dictionaries ([#3510](https://github.com/holtskinner/cspell-dicts/issues/3510)) ([a684808](https://github.com/holtskinner/cspell-dicts/commit/a684808a8e36f8fb5c5b2d282dc336206b520cd7))
+* Workflow Bot -- Build Dictionaries ([#3619](https://github.com/holtskinner/cspell-dicts/issues/3619)) ([e86c716](https://github.com/holtskinner/cspell-dicts/commit/e86c716d6c8b2bef5c14a5c27e7e6d7628b49ec3))
+* Workflow Bot -- Build Dictionaries ([#3637](https://github.com/holtskinner/cspell-dicts/issues/3637)) ([c7f9ff3](https://github.com/holtskinner/cspell-dicts/commit/c7f9ff39b920eb148794d3dd0eed531dcab8fb57))
+* Workflow Bot -- Build Dictionaries ([#3643](https://github.com/holtskinner/cspell-dicts/issues/3643)) ([2955084](https://github.com/holtskinner/cspell-dicts/commit/29550848da659f03ccd1e36b2a66b6a3cfcdc6f4))
+* Workflow Bot -- Build Dictionaries ([#3738](https://github.com/holtskinner/cspell-dicts/issues/3738)) ([3d89ef2](https://github.com/holtskinner/cspell-dicts/commit/3d89ef217eccdfc6b609e88859ebe7b5800dfe62))
+* Workflow Bot -- Build Dictionaries ([#3759](https://github.com/holtskinner/cspell-dicts/issues/3759)) ([3ea113f](https://github.com/holtskinner/cspell-dicts/commit/3ea113fa887be043b65774c94fd643b3948545dc))
+* Workflow Bot -- Build Dictionaries ([#3771](https://github.com/holtskinner/cspell-dicts/issues/3771)) ([2cfa1eb](https://github.com/holtskinner/cspell-dicts/commit/2cfa1ebce68e789285f8bf8f7b3e1402cb4c1b80))
+
 ## [6.0.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-cpp@6.0.0...@cspell/dict-cpp@6.0.1) (2024-11-03)
 
 

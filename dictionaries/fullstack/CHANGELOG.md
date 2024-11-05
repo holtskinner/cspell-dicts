@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.3.0](https://github.com/holtskinner/cspell-dicts/compare/@cspell/dict-fullstack-v3.2.3...@cspell/dict-fullstack@3.3.0) (2024-11-05)
+
+
+### Features
+
+* Enable fullstack by default for css, scss, and Razor ([#3419](https://github.com/holtskinner/cspell-dicts/issues/3419)) ([e673008](https://github.com/holtskinner/cspell-dicts/commit/e6730085c84ac0813d1dd47f6843c293054ffb99))
+
+
+### Updates and Bug Fixes
+
+* add back a few terms ([#3187](https://github.com/holtskinner/cspell-dicts/issues/3187)) ([74340db](https://github.com/holtskinner/cspell-dicts/commit/74340dbf3844307772cf1d58f23f6671380b7345))
+* Add some full stack related terms ([#3415](https://github.com/holtskinner/cspell-dicts/issues/3415)) ([94b3556](https://github.com/holtskinner/cspell-dicts/commit/94b355671d87cd6a8691c1fbae5cefba9a3a5170))
+* Enable dictionaries for MDX ([#3191](https://github.com/holtskinner/cspell-dicts/issues/3191)) ([34c7e57](https://github.com/holtskinner/cspell-dicts/commit/34c7e57f1be4cdc341c96c0fe98e2e9e9ed5ab92))
+* Fix the git repository URL ([#3665](https://github.com/holtskinner/cspell-dicts/issues/3665)) ([ac050b6](https://github.com/holtskinner/cspell-dicts/commit/ac050b697d57820109995e92fac5ccc32ced1723))
+* Sign all dictionaries ([#3661](https://github.com/holtskinner/cspell-dicts/issues/3661)) ([6b8d560](https://github.com/holtskinner/cspell-dicts/commit/6b8d560cf51a593458ce42bca415859f872cfc97))
+* update fullstack dict ([#3181](https://github.com/holtskinner/cspell-dicts/issues/3181)) ([2bfcba9](https://github.com/holtskinner/cspell-dicts/commit/2bfcba952e9d2aac1c7141ab6caef61abdd479d2))
+* update fullstack dict ([#3201](https://github.com/holtskinner/cspell-dicts/issues/3201)) ([0823ff1](https://github.com/holtskinner/cspell-dicts/commit/0823ff157df57304fd1c4010f852f400cf9c4979))
+* Update package git url ([#3667](https://github.com/holtskinner/cspell-dicts/issues/3667)) ([629c7d0](https://github.com/holtskinner/cspell-dicts/commit/629c7d0a5e1bacad1d3874b1f8372edc3494ef97))
+* Use fullstack dictionary with `typescriptreact` and `javascriptreact`. ([#3188](https://github.com/holtskinner/cspell-dicts/issues/3188)) ([7d2f94f](https://github.com/holtskinner/cspell-dicts/commit/7d2f94f2765235ccb1f677878ccd239f0756fffd))
+* Workflow Bot -- Build Dictionaries ([#3205](https://github.com/holtskinner/cspell-dicts/issues/3205)) ([8a56dba](https://github.com/holtskinner/cspell-dicts/commit/8a56dba2acc59b9b1345d7657cd7aefcb4932824))
+
 ## [3.2.3](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-fullstack@3.2.2...@cspell/dict-fullstack@3.2.3) (2024-10-11)
 
 

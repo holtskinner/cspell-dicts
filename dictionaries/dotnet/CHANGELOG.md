@@ -3,6 +3,21 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.0.9](https://github.com/holtskinner/cspell-dicts/compare/@cspell/dict-dotnet-v5.0.8...@cspell/dict-dotnet@5.0.9) (2024-11-05)
+
+
+### Updates and Bug Fixes
+
+* Add a few coding terms ([#3503](https://github.com/holtskinner/cspell-dicts/issues/3503)) ([7b52c8d](https://github.com/holtskinner/cspell-dicts/commit/7b52c8d6409ba5dbb60e72c2e290ff7e0bf02675))
+* Fix the git repository URL ([#3665](https://github.com/holtskinner/cspell-dicts/issues/3665)) ([ac050b6](https://github.com/holtskinner/cspell-dicts/commit/ac050b697d57820109995e92fac5ccc32ced1723))
+* Sign all dictionaries ([#3661](https://github.com/holtskinner/cspell-dicts/issues/3661)) ([6b8d560](https://github.com/holtskinner/cspell-dicts/commit/6b8d560cf51a593458ce42bca415859f872cfc97))
+* Update package git url ([#3667](https://github.com/holtskinner/cspell-dicts/issues/3667)) ([629c7d0](https://github.com/holtskinner/cspell-dicts/commit/629c7d0a5e1bacad1d3874b1f8372edc3494ef97))
+* Workflow Bot -- Build Dictionaries ([#3167](https://github.com/holtskinner/cspell-dicts/issues/3167)) ([a94f73b](https://github.com/holtskinner/cspell-dicts/commit/a94f73b4ff267e143d97208cf1c93b2b772bea51))
+* Workflow Bot -- Build Dictionaries ([#3174](https://github.com/holtskinner/cspell-dicts/issues/3174)) ([0f13b2b](https://github.com/holtskinner/cspell-dicts/commit/0f13b2b983fc00f83789795a34f432b9d439152e))
+* Workflow Bot -- Build Dictionaries ([#3487](https://github.com/holtskinner/cspell-dicts/issues/3487)) ([7e24140](https://github.com/holtskinner/cspell-dicts/commit/7e24140a4d6866e11c14580102211847ad68bd52))
+* Workflow Bot -- Build Dictionaries ([#3502](https://github.com/holtskinner/cspell-dicts/issues/3502)) ([8e84a1a](https://github.com/holtskinner/cspell-dicts/commit/8e84a1a7dd297f136b670c772634d476fbc7c762))
+* Workflow Bot -- Build Dictionaries ([#3510](https://github.com/holtskinner/cspell-dicts/issues/3510)) ([a684808](https://github.com/holtskinner/cspell-dicts/commit/a684808a8e36f8fb5c5b2d282dc336206b520cd7))
+
 ## [5.0.8](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-dotnet@5.0.7...@cspell/dict-dotnet@5.0.8) (2024-10-11)
 
 

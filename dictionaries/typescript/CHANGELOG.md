@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.1.12](https://github.com/holtskinner/cspell-dicts/compare/@cspell/dict-typescript-v3.1.11...@cspell/dict-typescript@3.1.12) (2024-11-05)
+
+
+### Updates and Bug Fixes
+
+* Add Astro to TypeScript dictionary settings ([#3717](https://github.com/holtskinner/cspell-dicts/issues/3717)) ([be7fdb3](https://github.com/holtskinner/cspell-dicts/commit/be7fdb31f9e65f76b5410d353e24ac775631cf8a))
+* Add DOM events to TypeScript ([#3700](https://github.com/holtskinner/cspell-dicts/issues/3700)) ([21b587f](https://github.com/holtskinner/cspell-dicts/commit/21b587f93d03ce922a7cb6f7b5a1ae0d554db81a))
+* Add some full stack related terms ([#3415](https://github.com/holtskinner/cspell-dicts/issues/3415)) ([94b3556](https://github.com/holtskinner/cspell-dicts/commit/94b355671d87cd6a8691c1fbae5cefba9a3a5170))
+* Enable dictionaries for MDX ([#3191](https://github.com/holtskinner/cspell-dicts/issues/3191)) ([34c7e57](https://github.com/holtskinner/cspell-dicts/commit/34c7e57f1be4cdc341c96c0fe98e2e9e9ed5ab92))
+* Fix the git repository URL ([#3665](https://github.com/holtskinner/cspell-dicts/issues/3665)) ([ac050b6](https://github.com/holtskinner/cspell-dicts/commit/ac050b697d57820109995e92fac5ccc32ced1723))
+* Sign all dictionaries ([#3661](https://github.com/holtskinner/cspell-dicts/issues/3661)) ([6b8d560](https://github.com/holtskinner/cspell-dicts/commit/6b8d560cf51a593458ce42bca415859f872cfc97))
+* Update package git url ([#3667](https://github.com/holtskinner/cspell-dicts/issues/3667)) ([629c7d0](https://github.com/holtskinner/cspell-dicts/commit/629c7d0a5e1bacad1d3874b1f8372edc3494ef97))
+* Workflow Bot -- Build Dictionaries ([#3718](https://github.com/holtskinner/cspell-dicts/issues/3718)) ([d4c72e4](https://github.com/holtskinner/cspell-dicts/commit/d4c72e49743a15fb7babc80142ef0817d2d7b394))
+
 ## [3.1.11](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-typescript@3.1.10...@cspell/dict-typescript@3.1.11) (2024-10-22)
 
 
