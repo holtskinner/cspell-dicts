@@ -22,6 +22,16 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.5](https://github.com/holtskinner/cspell-dicts/compare/@cspell/dict-uk-ua-v4.0.4...@cspell/dict-uk-ua@4.0.5) (2024-11-05)
+
+
+### Updates and Bug Fixes
+
+* add uk dictionary replacement map (`ʼ` -&gt; `'`) ([#3157](https://github.com/holtskinner/cspell-dicts/issues/3157)) ([9f92fff](https://github.com/holtskinner/cspell-dicts/commit/9f92fffe7ebb3cfdf3573163e7ab4f4262e4454f))
+* Fix the git repository URL ([#3665](https://github.com/holtskinner/cspell-dicts/issues/3665)) ([ac050b6](https://github.com/holtskinner/cspell-dicts/commit/ac050b697d57820109995e92fac5ccc32ced1723))
+* Sign all dictionaries ([#3661](https://github.com/holtskinner/cspell-dicts/issues/3661)) ([6b8d560](https://github.com/holtskinner/cspell-dicts/commit/6b8d560cf51a593458ce42bca415859f872cfc97))
+* Update package git url ([#3667](https://github.com/holtskinner/cspell-dicts/issues/3667)) ([629c7d0](https://github.com/holtskinner/cspell-dicts/commit/629c7d0a5e1bacad1d3874b1f8372edc3494ef97))
+
 ## [4.0.4](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-uk-ua@4.0.3...@cspell/dict-uk-ua@4.0.4) (2024-10-11)
 
 

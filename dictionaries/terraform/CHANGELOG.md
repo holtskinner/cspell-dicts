@@ -1,5 +1,20 @@
 # Change Log
 
+## [1.0.7](https://github.com/holtskinner/cspell-dicts/compare/@cspell/dict-terraform-v1.0.6...@cspell/dict-terraform@1.0.7) (2024-11-05)
+
+
+### Updates and Bug Fixes
+
+* add terraform terms ([#3629](https://github.com/holtskinner/cspell-dicts/issues/3629)) ([5ee6c99](https://github.com/holtskinner/cspell-dicts/commit/5ee6c995725b05bcb7c143406593fedcd1e5f8c3))
+* Fix the git repository URL ([#3665](https://github.com/holtskinner/cspell-dicts/issues/3665)) ([ac050b6](https://github.com/holtskinner/cspell-dicts/commit/ac050b697d57820109995e92fac5ccc32ced1723))
+* Sign all dictionaries ([#3661](https://github.com/holtskinner/cspell-dicts/issues/3661)) ([6b8d560](https://github.com/holtskinner/cspell-dicts/commit/6b8d560cf51a593458ce42bca415859f872cfc97))
+* **terraform:** add alltrue to allowed words ([#3750](https://github.com/holtskinner/cspell-dicts/issues/3750)) ([0ca5e8e](https://github.com/holtskinner/cspell-dicts/commit/0ca5e8ea0c949f566393c03ba13d28d7eb81c308))
+* Update package git url ([#3667](https://github.com/holtskinner/cspell-dicts/issues/3667)) ([629c7d0](https://github.com/holtskinner/cspell-dicts/commit/629c7d0a5e1bacad1d3874b1f8372edc3494ef97))
+* update to aws, bash, and terraform dictionaries ([#3511](https://github.com/holtskinner/cspell-dicts/issues/3511)) ([60ce322](https://github.com/holtskinner/cspell-dicts/commit/60ce322b1efc569cc44df8ef1d2718fb9dccd2f1))
+* Workflow Bot -- Build Dictionaries ([#3513](https://github.com/holtskinner/cspell-dicts/issues/3513)) ([dd62160](https://github.com/holtskinner/cspell-dicts/commit/dd621602b82bf6fbaab9a927614d440642a9bc13))
+* Workflow Bot -- Build Dictionaries ([#3635](https://github.com/holtskinner/cspell-dicts/issues/3635)) ([25b0f1d](https://github.com/holtskinner/cspell-dicts/commit/25b0f1df069601c5bc16084afe35ed5b9a75cf5c))
+* Workflow Bot -- Build Dictionaries ([#3739](https://github.com/holtskinner/cspell-dicts/issues/3739)) ([12e1ea8](https://github.com/holtskinner/cspell-dicts/commit/12e1ea8e2016d9f67f573bc795e5f9e482e36d3b))
+
 ## [1.0.6](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-terraform@1.0.5...@cspell/dict-terraform@1.0.6) (2024-11-02)
 
 
