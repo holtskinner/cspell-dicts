@@ -3,6 +3,31 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.2.0](https://github.com/holtskinner/cspell-dicts/compare/@cspell/dict-companies-v3.1.7...@cspell/dict-companies@3.2.0) (2024-11-05)
+
+
+### Features
+
+* Add Google Dictionary ([#3193](https://github.com/holtskinner/cspell-dicts/issues/3193)) ([609f34d](https://github.com/holtskinner/cspell-dicts/commit/609f34d46b63cd66447925e75e80691f899c630e))
+
+
+### Updates and Bug Fixes
+
+* add back a few terms ([#3187](https://github.com/holtskinner/cspell-dicts/issues/3187)) ([74340db](https://github.com/holtskinner/cspell-dicts/commit/74340dbf3844307772cf1d58f23f6671380b7345))
+* add missing company acronym for Analog Devices ([#3424](https://github.com/holtskinner/cspell-dicts/issues/3424)) ([a3a13fc](https://github.com/holtskinner/cspell-dicts/commit/a3a13fcd1224e0540ac61794b3d8f659da335b07))
+* Add missing company names and Google terms ([#3212](https://github.com/holtskinner/cspell-dicts/issues/3212)) ([1036a2c](https://github.com/holtskinner/cspell-dicts/commit/1036a2c0033d1c8788a653d1e1235ebcaab2a850))
+* Fix the git repository URL ([#3665](https://github.com/holtskinner/cspell-dicts/issues/3665)) ([ac050b6](https://github.com/holtskinner/cspell-dicts/commit/ac050b697d57820109995e92fac5ccc32ced1723))
+* Sign all dictionaries ([#3661](https://github.com/holtskinner/cspell-dicts/issues/3661)) ([6b8d560](https://github.com/holtskinner/cspell-dicts/commit/6b8d560cf51a593458ce42bca415859f872cfc97))
+* update companies dict ([#3198](https://github.com/holtskinner/cspell-dicts/issues/3198)) ([870405b](https://github.com/holtskinner/cspell-dicts/commit/870405ba5c00b58b78724618214a8bec503e6ff9))
+* Update companies dict ([#3403](https://github.com/holtskinner/cspell-dicts/issues/3403)) ([70092ac](https://github.com/holtskinner/cspell-dicts/commit/70092acde645888c3daa9711d9f350c82a14562f))
+* Update companies dict (add Vultr) ([#3229](https://github.com/holtskinner/cspell-dicts/issues/3229)) ([38cf93c](https://github.com/holtskinner/cspell-dicts/commit/38cf93c1fdebc1de2eee944352eec2ccfc88104a))
+* update companies dictionary ([#3180](https://github.com/holtskinner/cspell-dicts/issues/3180)) ([01d3c90](https://github.com/holtskinner/cspell-dicts/commit/01d3c909f8f7c51249566d604bf9ba75620f0209))
+* Update package git url ([#3667](https://github.com/holtskinner/cspell-dicts/issues/3667)) ([629c7d0](https://github.com/holtskinner/cspell-dicts/commit/629c7d0a5e1bacad1d3874b1f8372edc3494ef97))
+* Workflow Bot -- Build Dictionaries ([#3216](https://github.com/holtskinner/cspell-dicts/issues/3216)) ([1f48312](https://github.com/holtskinner/cspell-dicts/commit/1f483125280d927cfb94faca357f5b18baa5c29c))
+* Workflow Bot -- Build Dictionaries ([#3233](https://github.com/holtskinner/cspell-dicts/issues/3233)) ([77ce4fd](https://github.com/holtskinner/cspell-dicts/commit/77ce4fd2d8eb7b379b701c63614a5cfb565c03ec))
+* Workflow Bot -- Build Dictionaries ([#3405](https://github.com/holtskinner/cspell-dicts/issues/3405)) ([8624bcb](https://github.com/holtskinner/cspell-dicts/commit/8624bcbce44dad3fb99bb0ae446df08f377e1679))
+* Workflow Bot -- Build Dictionaries ([#3426](https://github.com/holtskinner/cspell-dicts/issues/3426)) ([92a71ac](https://github.com/holtskinner/cspell-dicts/commit/92a71ac7a406545fc7f27e768b79c400fce197e7))
+
 ## [3.1.7](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-companies@3.1.6...@cspell/dict-companies@3.1.7) (2024-10-11)
 
 

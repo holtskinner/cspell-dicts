@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.12](https://github.com/holtskinner/cspell-dicts/compare/@cspell/dict-docker-v1.1.11...@cspell/dict-docker@1.1.12) (2024-11-05)
+
+
+### Updates and Bug Fixes
+
+* add hadolint to docker dictionary ([#3677](https://github.com/holtskinner/cspell-dicts/issues/3677)) ([559a4ac](https://github.com/holtskinner/cspell-dicts/commit/559a4ac63080631aa8c66da6a6a0df31e6ce61d3))
+* Fix the git repository URL ([#3665](https://github.com/holtskinner/cspell-dicts/issues/3665)) ([ac050b6](https://github.com/holtskinner/cspell-dicts/commit/ac050b697d57820109995e92fac5ccc32ced1723))
+* Sign all dictionaries ([#3661](https://github.com/holtskinner/cspell-dicts/issues/3661)) ([6b8d560](https://github.com/holtskinner/cspell-dicts/commit/6b8d560cf51a593458ce42bca415859f872cfc97))
+* Update package git url ([#3667](https://github.com/holtskinner/cspell-dicts/issues/3667)) ([629c7d0](https://github.com/holtskinner/cspell-dicts/commit/629c7d0a5e1bacad1d3874b1f8372edc3494ef97))
+
 ## [1.1.11](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-docker@1.1.10...@cspell/dict-docker@1.1.11) (2024-10-17)
 
 
