@@ -3,6 +3,21 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.3.0](https://github.com/holtskinner/cspell-dicts/compare/@cspell/dict-fullstack-v3.2.3...@cspell/dict-fullstack@3.3.0) (2025-01-15)
+
+
+### Features
+
+* Enable fullstack by default for css, scss, and Razor ([#3419](https://github.com/holtskinner/cspell-dicts/issues/3419)) ([e673008](https://github.com/holtskinner/cspell-dicts/commit/e6730085c84ac0813d1dd47f6843c293054ffb99))
+
+
+### Updates and Bug Fixes
+
+* Add some full stack related terms ([#3415](https://github.com/holtskinner/cspell-dicts/issues/3415)) ([94b3556](https://github.com/holtskinner/cspell-dicts/commit/94b355671d87cd6a8691c1fbae5cefba9a3a5170))
+* Fix the git repository URL ([#3665](https://github.com/holtskinner/cspell-dicts/issues/3665)) ([ac050b6](https://github.com/holtskinner/cspell-dicts/commit/ac050b697d57820109995e92fac5ccc32ced1723))
+* Sign all dictionaries ([#3661](https://github.com/holtskinner/cspell-dicts/issues/3661)) ([6b8d560](https://github.com/holtskinner/cspell-dicts/commit/6b8d560cf51a593458ce42bca415859f872cfc97))
+* Update package git url ([#3667](https://github.com/holtskinner/cspell-dicts/issues/3667)) ([629c7d0](https://github.com/holtskinner/cspell-dicts/commit/629c7d0a5e1bacad1d3874b1f8372edc3494ef97))
+
 ## [3.2.3](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-fullstack@3.2.2...@cspell/dict-fullstack@3.2.3) (2024-10-11)
 
 

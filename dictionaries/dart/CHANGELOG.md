@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.4.0](https://github.com/holtskinner/cspell-dicts/compare/@cspell/dict-dart-v2.3.0...@cspell/dict-dart@2.4.0) (2025-01-15)
+
+
+### Features
+
+* add more detailed dart dictionary ([#3546](https://github.com/holtskinner/cspell-dicts/issues/3546)) ([9a55820](https://github.com/holtskinner/cspell-dicts/commit/9a558202a30b2a7319f217b017608e04202b9f88))
+* add top pubdev package name ([#3551](https://github.com/holtskinner/cspell-dicts/issues/3551)) ([cbdf919](https://github.com/holtskinner/cspell-dicts/commit/cbdf9190b2c67025fa90581210efe69f2ab8d68f))
+* remove `enableFiletypes` ([#3996](https://github.com/holtskinner/cspell-dicts/issues/3996)) ([6011700](https://github.com/holtskinner/cspell-dicts/commit/6011700cc2d90edd2048f293fe2235b6212a805a))
+
+
+### Updates and Bug Fixes
+
+* Add `instancetype` and `cstr` to Dart ([#3557](https://github.com/holtskinner/cspell-dicts/issues/3557)) ([0dd4c91](https://github.com/holtskinner/cspell-dicts/commit/0dd4c9148a4dd84e6de5af6380fbb90f51fce38b))
+* Adjust dictionary names ([#3958](https://github.com/holtskinner/cspell-dicts/issues/3958)) ([8a96533](https://github.com/holtskinner/cspell-dicts/commit/8a96533bec21280103740868b81559437c413501))
+* Fix the git repository URL ([#3665](https://github.com/holtskinner/cspell-dicts/issues/3665)) ([ac050b6](https://github.com/holtskinner/cspell-dicts/commit/ac050b697d57820109995e92fac5ccc32ced1723))
+* Sign all dictionaries ([#3661](https://github.com/holtskinner/cspell-dicts/issues/3661)) ([6b8d560](https://github.com/holtskinner/cspell-dicts/commit/6b8d560cf51a593458ce42bca415859f872cfc97))
+* Update package git url ([#3667](https://github.com/holtskinner/cspell-dicts/issues/3667)) ([629c7d0](https://github.com/holtskinner/cspell-dicts/commit/629c7d0a5e1bacad1d3874b1f8372edc3494ef97))
+* Workflow Bot -- Build Dictionaries ([#3560](https://github.com/holtskinner/cspell-dicts/issues/3560)) ([b3b9349](https://github.com/holtskinner/cspell-dicts/commit/b3b934945a99dd019f9bb88ff93f44aacb67a9ed))
+
 ## [2.3.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-dart@2.2.5...@cspell/dict-dart@2.3.0) (2025-01-08)
 
 

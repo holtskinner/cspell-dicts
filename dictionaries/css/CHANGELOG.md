@@ -22,6 +22,23 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.18](https://github.com/holtskinner/cspell-dicts/compare/@cspell/dict-css-v4.0.17...@cspell/dict-css@4.0.18) (2025-01-15)
+
+
+### Updates and Bug Fixes
+
+* add lowercase version of `text-rendering` values ([#3457](https://github.com/holtskinner/cspell-dicts/issues/3457)) ([5808186](https://github.com/holtskinner/cspell-dicts/commit/58081864b619b9dadcbc089b360e512cd6be42c7))
+* Adjust dictionary names ([#3958](https://github.com/holtskinner/cspell-dicts/issues/3958)) ([8a96533](https://github.com/holtskinner/cspell-dicts/commit/8a96533bec21280103740868b81559437c413501))
+* Fix the git repository URL ([#3665](https://github.com/holtskinner/cspell-dicts/issues/3665)) ([ac050b6](https://github.com/holtskinner/cspell-dicts/commit/ac050b697d57820109995e92fac5ccc32ced1723))
+* Sign all dictionaries ([#3661](https://github.com/holtskinner/cspell-dicts/issues/3661)) ([6b8d560](https://github.com/holtskinner/cspell-dicts/commit/6b8d560cf51a593458ce42bca415859f872cfc97))
+* Update package git url ([#3667](https://github.com/holtskinner/cspell-dicts/issues/3667)) ([629c7d0](https://github.com/holtskinner/cspell-dicts/commit/629c7d0a5e1bacad1d3874b1f8372edc3494ef97))
+* Workflow Bot -- Build Dictionaries ([#3462](https://github.com/holtskinner/cspell-dicts/issues/3462)) ([a75889e](https://github.com/holtskinner/cspell-dicts/commit/a75889e8da2597f16130a74725d0e3d479c4aa13))
+
+
+### Tests
+
+* Add CSS samples ([#3463](https://github.com/holtskinner/cspell-dicts/issues/3463)) ([065a9c5](https://github.com/holtskinner/cspell-dicts/commit/065a9c5daf62d450c7f180ca13eb9ec74b61e73b))
+
 ## [4.0.17](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-css@4.0.16...@cspell/dict-css@4.0.17) (2024-12-30)
 
 
