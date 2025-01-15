@@ -3,6 +3,33 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.2.15](https://github.com/holtskinner/cspell-dicts/compare/@cspell/dict-python-v4.2.14...@cspell/dict-python@4.2.15) (2025-01-15)
+
+
+### Updates and Bug Fixes
+
+* Add "maxsplit" to python.txt dictionary ([#3663](https://github.com/holtskinner/cspell-dicts/issues/3663)) ([a448054](https://github.com/holtskinner/cspell-dicts/commit/a4480541fbcc6b4709e0b03367f56b59fffaf424))
+* Added some Python package names ([#3850](https://github.com/holtskinner/cspell-dicts/issues/3850)) ([a093c9d](https://github.com/holtskinner/cspell-dicts/commit/a093c9d9a27073af2762e0f37d27472451c31bf5))
+* Adjust dictionary names ([#3958](https://github.com/holtskinner/cspell-dicts/issues/3958)) ([8a96533](https://github.com/holtskinner/cspell-dicts/commit/8a96533bec21280103740868b81559437c413501))
+* Fix the git repository URL ([#3665](https://github.com/holtskinner/cspell-dicts/issues/3665)) ([ac050b6](https://github.com/holtskinner/cspell-dicts/commit/ac050b697d57820109995e92fac5ccc32ced1723))
+* make sure constraints.txt includes python dict ([#3515](https://github.com/holtskinner/cspell-dicts/issues/3515)) ([dbf2955](https://github.com/holtskinner/cspell-dicts/commit/dbf29555b9a49b71e038224a0dbed4e3a677405e))
+* Sign all dictionaries ([#3661](https://github.com/holtskinner/cspell-dicts/issues/3661)) ([6b8d560](https://github.com/holtskinner/cspell-dicts/commit/6b8d560cf51a593458ce42bca415859f872cfc97))
+* Update package git url ([#3667](https://github.com/holtskinner/cspell-dicts/issues/3667)) ([629c7d0](https://github.com/holtskinner/cspell-dicts/commit/629c7d0a5e1bacad1d3874b1f8372edc3494ef97))
+* Update software-terms ([#3506](https://github.com/holtskinner/cspell-dicts/issues/3506)) ([5d8c9c5](https://github.com/holtskinner/cspell-dicts/commit/5d8c9c56567417c5ef7de3e29ac62623f27e2a63))
+* Workflow Bot -- Build Dictionaries ([#3443](https://github.com/holtskinner/cspell-dicts/issues/3443)) ([6d7eb6f](https://github.com/holtskinner/cspell-dicts/commit/6d7eb6fd4340b0b49a688df7cd866780d5d80759))
+* Workflow Bot -- Build Dictionaries ([#3510](https://github.com/holtskinner/cspell-dicts/issues/3510)) ([a684808](https://github.com/holtskinner/cspell-dicts/commit/a684808a8e36f8fb5c5b2d282dc336206b520cd7))
+* Workflow Bot -- Build Dictionaries ([#3635](https://github.com/holtskinner/cspell-dicts/issues/3635)) ([25b0f1d](https://github.com/holtskinner/cspell-dicts/commit/25b0f1df069601c5bc16084afe35ed5b9a75cf5c))
+* Workflow Bot -- Build Dictionaries ([#3643](https://github.com/holtskinner/cspell-dicts/issues/3643)) ([2955084](https://github.com/holtskinner/cspell-dicts/commit/29550848da659f03ccd1e36b2a66b6a3cfcdc6f4))
+* Workflow Bot -- Build Dictionaries ([#3683](https://github.com/holtskinner/cspell-dicts/issues/3683)) ([a47d7cb](https://github.com/holtskinner/cspell-dicts/commit/a47d7cbb2b28cf7570734c01c2c9d1c87316e94c))
+* Workflow Bot -- Build Dictionaries ([#3851](https://github.com/holtskinner/cspell-dicts/issues/3851)) ([0c9be81](https://github.com/holtskinner/cspell-dicts/commit/0c9be814359ee9f49bf04596701db77e2a614bef))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @cspell/dict-data-science bumped to 2.0.7
+
 ## [4.2.14](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-python@4.2.13...@cspell/dict-python@4.2.14) (2024-12-30)
 
 
